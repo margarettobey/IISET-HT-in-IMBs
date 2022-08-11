@@ -4,9 +4,14 @@ This is the code for the IISE Transactions article "Interpretable Models for the
 This code requires installation of the risk-slim package (https://github.com/ustunb/risk-slim) and GOSDT package (https://github.com/Jimmy-Lin/GeneralizedOptimalSparseDecisionTrees)
 
 Input data descriptions:
+
 A. "selected_features_9070and403.csv" is the entire labeled data set after feature selection
+
 B. "selected_features_1612and403.csv" is the undersampled version of A
+
 C. "data_categorical_9070and403.csv" is used for the univariate and multivariate anlysis before feature selection
+
+Steps:
 
 1. Run "riskscores.py" to train the risk score model (5 CV folds plus 1 final run on full dataset B)
 	inputs: "selected_features_1612and403.csv"
