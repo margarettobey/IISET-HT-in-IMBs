@@ -1,6 +1,6 @@
 # IISET-HT-in-IMBs
 
-This material will be available at: https://doi.org/10.5281/zenodo.7430460 
+This material is now available at: https://doi.org/10.5281/zenodo.7430460 
 
 This is the code for the IISE Transactions article "Interpretable Models for the Automated Detection of Human Trafficking in Illicit Massage Businesses" by Tobey et al., 2022 (https://doi.org/10.1080/24725854.2022.2113187)
 
