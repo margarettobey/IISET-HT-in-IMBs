@@ -29,7 +29,7 @@ Steps:
 
 4. Run "decisiontree_5Folds.py" for cross validation on decision tree models
 	inputs: "selected_features_9070and403.csv"
-	outputs: "dt_5Folds_output.xlsx" displays decicision tree computational results,
+	outputs: "dt_5Folds_output.xlsx" displays decision tree computational results,
 		"5FoldSCV_prediction_info.csv" contains predictions for each test set 
 
 5. Run results_and_plots.py
