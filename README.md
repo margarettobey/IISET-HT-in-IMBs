@@ -12,7 +12,7 @@ A. "selected_features_9070and403.csv" is the entire labeled data set after featu
 
 B. "selected_features_1612and403.csv" is the undersampled version of A
 
-C. "data_categorical_9070and403.csv" is used for the univariate and multivariate anlysis before feature selection
+C. "data_categorical_9070and403.csv" is used for the univariate and multivariate analysis before feature selection
 
 Steps:
 
